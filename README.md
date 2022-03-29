@@ -1,10 +1,11 @@
 # Terry Milam Full Stack Developer
 
-- 👋 Hi, I’m @toptowermilan
-- 👀 I’m interested in JavaScript / Typescript
-- 🌱 I’m currently <h2>Looking for jobs</h2>
+- 👋 Hi, I’m interested in JavaScript / Typescript 🌱
+I’m currently <h2>👀 Seeking for jobs</h2>
+
+- 📫 How to reach me 
+- <h3>email:<b>toptowerilan@gmail.com</b></h3>
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me <h3>email:<b>toptowerilan@gmail.com</b></h3>
 
 <!--- ---->
 ![screenshot-2](/src/shot-2.jpg)
