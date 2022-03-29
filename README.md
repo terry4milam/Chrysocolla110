@@ -4,7 +4,7 @@
 I’m currently <h2>👀 Seeking for jobs</h2>
 
 - 📫 How to reach me 
-- <h3>email:<b>toptowerilan@gmail.com</b></h3>
+- <h3>toptowerilan@gmail.com</h3>
 - 💞️ I’m looking to collaborate on ...
 
 <!--- ---->
