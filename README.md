@@ -12,7 +12,6 @@ I’m currently <h2>👀 Seeking for jobs</h2>
 
 ![screenshot-3](/src/shot-3.jpg)
 
-![screenshot-1](/src/shot-1.jpg)
 <!---
 toptowermilan/toptowermilan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
