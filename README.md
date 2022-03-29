@@ -5,6 +5,8 @@
 - 🌱 I’m currently learning Ruby on Rails
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
+
+<!--- ---->
 ![screenshot-2](/src/shot-2.jpg)
 
 ![screenshot-3](/src/shot-3.jpg)
