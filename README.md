@@ -55,7 +55,6 @@ Hi, I am a Senior JavaScript Engineer. I own a strong hold on different skills s
     <td><img src="https://cdn.iconscout.com/icon/free/png-64/postgresql-9-1175120.png"  width="100"/></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-64/aws-1-282741.png" alt="mariadb" width="100"/></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-128/redis-6-1175105.png" width="100"></td>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-128/django-13-1175187.png" width="100"></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-64/nginx-3521604-2945048.png" width="100"/></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-128/git-18-1175219.png" width="100"></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-64/heroku-8-1175211.png" width="100"></td>
