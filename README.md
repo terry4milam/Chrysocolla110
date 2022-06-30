@@ -1,26 +1,25 @@
-### Senior JavaScript Engineer || Full Stack Developer 
+### JavaScript Engineer || Full Stack Developer 
 <p align="center"> 
-<img src="https://komarev.com/ghpvc/?username=Jajabenit250&label=Profile%20views&color=0e75b6&style=flat" alt="secretstar" /> 
+<img src="https://komarev.com/ghpvc/?username=yyx990803&label=Profile%20views&color=0e75b6&style=flat" alt="CodersMelody" /> 
 </p>
-<!-- <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ciprianwork" alt="Ciprianwork" /></a> -->
+<!-- <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=CodersMelody" alt="CodersMelody" /></a> -->
 
 Hi, I am a Senior JavaScript Engineer. I own a strong hold on different skills such as HTML, CSS, JavaScript, Typescript, React JS, Vue.JS PHP, etc.I've done multiple projects in a wide range of industries including eCommerce, LMS, fintness, etc.   
 ####     
-![](https://img.shields.io/badge/Vanilla.js-Green) ![](https://img.shields.io/badge/Typescript.js-Green) ![](https://img.shields.io/badge/React.js-Green) ![](https://img.shields.io/badge/Vue.js-blue) ![](https://img.shields.io/badge/Next.js-blue) ![](https://img.shields.io/badge/Nuxt.js-blue) ![](https://img.shields.io/badge/Gatsby-blue) ![](https://img.shields.io/badge/Svelte-blue) ![](https://img.shields.io/badge/Node.js-Green) ![](https://img.shields.io/badge/Express.js-Green) ![](https://img.shields.io/badge/Laravel/php-Green) ![](https://img.shields.io/badge/Djanog.js-blue)  ![](https://img.shields.io/badge/Flask.js-blue) ![](https://img.shields.io/badge/AWS-Green)
+![](https://img.shields.io/badge/Vanilla.js-Green) ![](https://img.shields.io/badge/Typescript.js-Green) ![](https://img.shields.io/badge/React.js-Green) ![](https://img.shields.io/badge/Vue.js-blue) ![](https://img.shields.io/badge/Next.js-blue) ![](https://img.shields.io/badge/Nuxt.js-blue) ![](https://img.shields.io/badge/Gatsby-blue) ![](https://img.shields.io/badge/Svelte-blue) ![](https://img.shields.io/badge/Node.js-Green) ![](https://img.shields.io/badge/Express.js-Green) ![](https://img.shields.io/badge/Laravel/php-Green)  ![](https://img.shields.io/badge/AWS-blue) ![](https://img.shields.io/badge/Netilify-blue) ![](https://img.shields.io/badge/Heroku-blue)
 
 ![](https://img.shields.io/badge/eCommerce-blue) ![](https://img.shields.io/badge/CMS-blue) ![](https://img.shields.io/badge/Shopify-blue) ![](https://img.shields.io/badge/STRAPI-blue) ![](https://img.shields.io/badge/WebFlow-blue)
 
 
-<h2 font-weight="bold">Contributions</h2> 
+<h1 font-weight="bold">Contributions</h1> 
+<div>
   <p>
-    <img align="left" height="150px" src="https://github-readme-stats.vercel.app/api?username=ciprianwork&show_icons=true&theme=merko&count_private=true" />
+    <img align="left" height="150px" src="https://github-readme-stats.vercel.app/api?username=CodersMelody&show_icons=true&theme=merko&count_private=true" />
     <img align="right" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=talentedev&layout=compact&theme=merko&count_private=true" /> 
   </p>
-  <p align="center">
-    <h3>Alexandru Cosptel</h3>
-  </p>
+</div>
 <br/>
-<h2 font-weight="bold">𝐒𝐤𝐢𝐥𝐥 𝐒𝐞𝐭</h2>
+<h1 font-weight="bold">𝐒𝐤𝐢𝐥𝐥 𝐒𝐞𝐭</h1>
 <table align="center">
   <tr>
     <td><img src="https://cdn.iconscout.com/icon/free/png-128/html5-40-1175193.png" width="100px"></td>
@@ -65,20 +64,3 @@ Hi, I am a Senior JavaScript Engineer. I own a strong hold on different skills s
   </tr>
 </table>
 
-## 𝐖𝐡at can I do?
-
-<div>
-### Mobile-first development, Pixel-perfect
-<br />
-
-### Best Front-end Development using Mordern JavaScript/Typescript Frameworks & Libraries
-<br />
-
-### Perfect MERN, MEVN, Laravel & Vue Full-Stack Web Developing
-<br />
-
-### Django & Flask
-<br />  
-
-</div>
-<br />
