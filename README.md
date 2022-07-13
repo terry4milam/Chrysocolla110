@@ -14,7 +14,7 @@ Hi, I am a Senior JavaScript Engineer. I own a strong hold on different skills s
 <h1 font-weight="bold">Contributions</h1> 
 <div>
   <p>
-    <img align="left" height="150px" src="https://github-readme-stats.vercel.app/api?username=CodersMelody&show_icons=true&theme=merko&count_private=true" />
+    <img align="left" height="150px" src="https://github-readme-stats.vercel.app/api?username=Markup-first&show_icons=true&theme=merko&count_private=true" />
     <img align="right" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=talentedev&layout=compact&theme=merko&count_private=true" /> 
   </p>
 </div>
