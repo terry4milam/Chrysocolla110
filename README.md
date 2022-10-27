@@ -2,7 +2,7 @@
 <!-- <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=CodersMelody" alt="CodersMelody" /></a> -->
 
 Hi, I am a JavaScript Engineer. 
-Keep learning, Keep growing
+Keep learning, Keep growing, Keep working.
 
 ####     
 
