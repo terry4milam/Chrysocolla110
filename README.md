@@ -1,5 +1,4 @@
 ### JavaScript 
-<!-- <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=CodersMelody" alt="CodersMelody" /></a> -->
 
 Hi, I am a JavaScript Engineer. 
 Keep learning, Keep growing, Keep working.
@@ -18,14 +17,18 @@ Keep learning, Keep growing, Keep working.
     <td><img src="https://cdn.iconscout.com/icon/free/png-128/sass-13-1175092.png" width="100px"></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-128/bootstrap-226077.png" width="100px"></td>
   </tr>
-  <tr>    <td><img src="https://cdn.iconscout.com/icon/free/png-128/javascript-1-225993.png" width="100px"></td>
+  <tr>    
+    <td><img src="https://cdn.iconscout.com/icon/free/png-128/javascript-1-225993.png" width="100px"></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-128/typescript-1-1175078.png" width="100px"></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-128/jquery-7-1175152.png" width="100"></td>
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"  width="100"/></td>
     <!--td><img src="https://seeklogo.com/images/N/next-js-logo-8FCFF51DD2-seeklogo.com.png" width="100"/></td>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-128/vuejs-3-1175070.png" width="100"></td>
+    
     <td><img src="https://preview.redd.it/2ssi8ft315b71.png?auto=webp&s=0fbae78f60d85a7c1a1ca510cdc2baaf0852dd9d" width="100"></td>
     <td><img src="https://javascriptforwp.com/wp-content/uploads/2019/03/badge-gatsby.png" width="100"></td-->
+  </tr>
+  <tr>
+    <td><img src="https://cdn.iconscout.com/icon/free/png-128/vuejs-3-1175070.png" width="100"></td>
   </tr>
   <!--tr>
     <td><img src="https://cdn.iconscout.com/icon/free/png-128/nodejs-2-226035.png" width="100"></td>
