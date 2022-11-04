@@ -10,6 +10,7 @@ Keep learning, Keep growing, Keep working.<br>
 <h1 font-weight="bold">Contributions</h1> 
 <div  align="center">
     <img align="left" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=talentedev&layout=compact&theme=merko&count_private=true" /> 
+</div>
 
 <table align="right">
   <tr>
@@ -38,5 +39,4 @@ Keep learning, Keep growing, Keep working.<br>
     
   </tr>
 </table>
-</div>
 
