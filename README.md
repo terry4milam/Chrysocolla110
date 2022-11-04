@@ -1,6 +1,7 @@
 ### JavaScript 
 
-Hi, I am a JavaScript Engineer. 
+Hi, I am a Full-stack developer.
+I am so happy with what I have approved and like to collaborate all of you here.
 Keep learning, Keep growing, Keep working.
 
 ####     
@@ -16,26 +17,31 @@ Keep learning, Keep growing, Keep working.
     <td><img src="https://cdn.iconscout.com/icon/free/png-128/css3-11-1175239.png" width="100px"></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-128/sass-13-1175092.png" width="100px"></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-128/bootstrap-226077.png" width="100px"></td>
+    <td><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="100"></td>
   </tr>
   <tr>    
     <td><img src="https://cdn.iconscout.com/icon/free/png-128/javascript-1-225993.png" width="100px"></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-128/typescript-1-1175078.png" width="100px"></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-128/jquery-7-1175152.png" width="100"></td>
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"  width="100"/></td>
-    <!--td><img src="https://seeklogo.com/images/N/next-js-logo-8FCFF51DD2-seeklogo.com.png" width="100"/></td>
-    
-    <td><img src="https://preview.redd.it/2ssi8ft315b71.png?auto=webp&s=0fbae78f60d85a7c1a1ca510cdc2baaf0852dd9d" width="100"></td>
-    <td><img src="https://javascriptforwp.com/wp-content/uploads/2019/03/badge-gatsby.png" width="100"></td-->
+    <td><img src="https://seeklogo.com/images/N/next-js-logo-8FCFF51DD2-seeklogo.com.png" width="100"/></td>
   </tr>
   <tr>
     <td><img src="https://cdn.iconscout.com/icon/free/png-128/vuejs-3-1175070.png" width="100"></td>
+  </tr>
+  <tr>
+    <td><img src="https://cdn.iconscout.com/icon/free/png-64/mysql-3521596-2945040.png"  width="100"/></td>
+    <td><img src="https://cdn.iconscout.com/icon/free/png-128/mongodb-4-1175139.png" width="100"></td>
+    <td><img src="https://cdn.iconscout.com/icon/free/png-64/postgresql-9-1175120.png"  width="100"/></td>
+    <td><img src="https://cdn.iconscout.com/icon/free/png-64/aws-1-282741.png" alt="mariadb" width="100"/></td>
+    <td><img src="https://cdn.iconscout.com/icon/free/png-128/redis-6-1175105.png" width="100"></td>
+    
   </tr>
   <!--tr>
     <td><img src="https://cdn.iconscout.com/icon/free/png-128/nodejs-2-226035.png" width="100"></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-128/php-99-1175127.png" width="100"></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-128/codeigniter-5-1175246.png" width="100"></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-128/laravel-2-1175146.png" width="100"></td>
-    <td><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="100"></td>
     <td><img src="https://bs-uploads.toptal.io/blackfish-uploads/components/skill_page/content/logo_file/logo/195523/d3js-7ccc10c45b36ba40d8fd3006561289df.png" width="100"></td>
     <td><img src="https://mui.com/static/logo.png" width="100"></td>
     <td><img src="https://www.chartjs.org/media/logo-title.svg" width="100"></td>
