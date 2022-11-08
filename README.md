@@ -31,6 +31,7 @@ Keep learning, Keep growing, Keep working.<br>
       <td><img src="https://img.icons8.com/color/2x/nuxt-jc.png" width="50"></td>
       <td><img src="https://img.icons8.com/stickers/2x/ruby-gemstone.png" width="50"></td>
       <td><img src="https://img.icons8.com/color-glass/2x/ruby-programming-language.png" width="50"></td>
+      <td><img src="https://img.icons8.com/fluency/2x/total-sales-1.png" width="50"></td>
       
   </tr>
   <tr>
