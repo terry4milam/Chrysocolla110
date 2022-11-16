@@ -29,7 +29,7 @@ Keep learning, Keep growing, Keep working.<br>
   <tr>
      <td><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="50"></td>
       <td><img src="https://cdn.iconscout.com/icon/free/png-128/vuejs-3-1175070.png" width="50"></td>
-      <td><img src="https://img.icons8.com/color/2x/nuxt-jc.png" width="50"></td>
+      <td><img src="https://img.icons8.com/doodle/2x/svetle.png" width="50"></td>
       <td><img src="https://img.icons8.com/color-glass/2x/ruby-programming-language.png" width="50"></td>
       <td><img src="https://img.icons8.com/fluency/2x/total-sales-1.png" width="50"></td>
       
