@@ -4,16 +4,13 @@ I am happy with what I’ve accomplished but I am really looking for a new chall
 Keep learning, Keep growing, Keep working.<br>
 
 ####     
-
-
 <h1 font-weight="bold">Contributions</h1> 
+
 <div  align="center">
 <!--     <img align="left" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chrysocolla110&layout=compact&theme=merko&count_private=true" />  -->
 </div>
 
 <!-- Discord Connection -->
-<a href="https://discord.com/users/978829681333788682"><img align="left" src="https://lanyard-profile-readme.vercel.app/api/978829681333788682?bg=00000000" /> Hit me to chat </a>
-
 <table align="right">
   <tr>
     <td><img src="https://cdn.iconscout.com/icon/free/png-128/html5-40-1175193.png" width="50px"></td>
@@ -43,3 +40,7 @@ Keep learning, Keep growing, Keep working.<br>
   </tr>
 </table>
 
+<table align='left'>
+  <a href="https://discord.com/users/978829681333788682"><img align="right" src="https://lanyard-profile-readme.vercel.app/api/978829681333788682?bg=00000000" /> Hit me to chat </a>
+  
+</table>
