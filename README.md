@@ -21,12 +21,13 @@ Keep learning, Keep growing, Keep working.<br>
     <td><img src="https://cdn.iconscout.com/icon/free/png-128/bootstrap-226077.png" width="50px"></td>
   </tr>
   <tr>    
-    <td><img src="https://cdn.iconscout.com/icon/free/png-128/jquery-7-1175152.png" width="50"></td>
+<!--     <td><img src="https://cdn.iconscout.com/icon/free/png-128/jquery-7-1175152.png" width="50"></td> -->
+    <td><img src="https://bs-uploads.toptal.io/blackfish-uploads/components/skill_page/content/logo_file/logo/195523/d3js-7ccc10c45b36ba40d8fd3006561289df.png" width="50"></td>
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"  width="50"/></td>
     <td><img src="https://seeklogo.com/images/N/next-js-logo-8FCFF51DD2-seeklogo.com.png" width="50"/></td>
-      <td><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="50"></td>
-      <td><img src="https://cdn.iconscout.com/icon/free/png-128/vuejs-3-1175070.png" width="50"></td>
-      <td><img src="https://img.icons8.com/doodle/2x/svetle.png" width="50"></td>
+    <td><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="50"></td>
+    <td><img src="https://cdn.iconscout.com/icon/free/png-128/vuejs-3-1175070.png" width="50"></td>
+    <td><img src="https://img.icons8.com/doodle/2x/svetle.png" width="50"></td>
   </tr>
   <tr>
     <td><img src="https://img.icons8.com/fluency/2x/total-sales-1.png" width="50"></td>
