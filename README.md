@@ -13,7 +13,7 @@ I've done multiple projects in a wide range of industries including eCommerce, L
 ![](https://img.shields.io/badge/Node.js-green) ![](https://img.shields.io/badge/Express.js-green) ![](https://img.shields.io/badge/Java/Spring-Green) ![](https://img.shields.io/badge/eCommerce-blue) ![](https://img.shields.io/badge/CMS-blue) ![](https://img.shields.io/badge/Shopify-blue) ![](https://img.shields.io/badge/Firebase-blue) ![](https://img.shields.io/badge/AWS-green)
 <p>
 <!--   I am happy with what I’ve accomplished but I am really looking for a new challenge now.<br> -->
-  Keep learning, Keep growing, Keep working. (Hit me to chat --> )<br>
+  Keep learning, Keep growing, Keep working. (<b>Hit me to chat --> </b>)<br>
 </p>
 
 ####     
@@ -28,27 +28,32 @@ I've done multiple projects in a wide range of industries including eCommerce, L
   <tr>
     <td><img src="https://cdn.iconscout.com/icon/free/png-128/html5-40-1175193.png" width="50px"></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-128/css3-11-1175239.png" width="50px"></td>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-128/javascript-1-225993.png" width="50px"></td>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-128/typescript-1-1175078.png" width="50px"></td>
+    <td><img src="https://cdn.iconscout.com/icon/free/png-128/javascript-2-225993.png" width="50px"></td>
+    <td><img src="https://cdn.iconscout.com/icon/free/png-128/typescript-1174965.png" width="50px"></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-128/sass-13-1175092.png" width="50px"></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-128/bootstrap-226077.png" width="50px"></td>
     <td><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="50"></td>
+    <td><img src="https://mui.com/static/logo.png" width="50"></td>
   </tr>
   <tr>    
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"  width="50"/></td>
+    <td><img src="https://cdn.iconscout.com/icon/free/png-64/webpack-3-1174982.png" width="50"></td>
+    <td><img src="https://cdn.iconscout.com/icon/free/png-64/react-3-1175109.png" width="50"></td>
     <td><img src="https://seeklogo.com/images/N/next-js-logo-8FCFF51DD2-seeklogo.com.png" width="50"/></td>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-128/vuejs-3-1175070.png" width="50"></td>
-    <td><img src="https://img.icons8.com/doodle/2x/svetle.png" width="50"></td>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-128/jquery-7-1175152.png" width="50"></td>
+    <td><img src="https://cdn.iconscout.com/icon/free/png-64/vuejs-3-1175070.png" width="50"></td>
+    <td><img src="https://cdn.iconscout.com/icon/free/png-64/angular-3-226070.png" width="50"></td>
+    <td><img src="https://cdn.iconscout.com/icon/free/png-64/java-59-1174952.png" width="50"></td>
     <td><img src="https://bs-uploads.toptal.io/blackfish-uploads/components/skill_page/content/logo_file/logo/195523/d3js-7ccc10c45b36ba40d8fd3006561289df.png" width="50"></td>
-    <td><img src="https://img.icons8.com/fluency/2x/total-sales-1.png" width="50"></td>
+    <td><img src="https://www.chartjs.org/media/logo-title.svg" width="50"></td>
   </tr>
   <tr>
+    <td><img src="https://cdn.iconscout.com/icon/free/png-64/node-js-1174925.png" width="50"></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-64/mysql-3521596-2945040.png"  width="50"/></td>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-128/mongodb-4-1175139.png" width="50"></td>
+    <td><img src="https://cdn.iconscout.com/icon/free/png-64/mongodb-4-1175139.png" width="50"></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-64/postgresql-9-1175120.png"  width="50"/></td>
+    <td><img src="https://cdn.iconscout.com/icon/free/png-64/aws-1869025-1583149.png" width="50"/></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-64/aws-1-282741.png" alt="mariadb" width="50"/></td>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-128/redis-6-1175105.png" width="50"></td>
+    <td><img src="https://cdn.iconscout.com/icon/free/png-64/redis-6-1175105.png" width="50"></td>
+    <td><img src="https://cdn.iconscout.com/icon/free/png-64/docker-4-532129.png" width="50"></td>
     
   </tr>
 </table>
