@@ -9,8 +9,22 @@
 Hi, I am a Senior JavaScript Engineer who has various skills such as HTML, CSS, JavaScript, Typescript, React JS, Vue.JS, Next.js, Svelte, etc.
 I've done multiple projects in a wide range of industries including eCommerce, LMS, fitness, etc.   
 ### Expertise     
-![](https://img.shields.io/badge/Vanilla.js-green) ![](https://img.shields.io/badge/Typescript.js-green) ![](https://img.shields.io/badge/React.js-green) ![](https://img.shields.io/badge/Vue.js-blue) ![](https://img.shields.io/badge/Next.js-blue) ![](https://img.shields.io/badge/Gatsby-blue) ![](https://img.shields.io/badge/Svelte-blue) <br>
-![](https://img.shields.io/badge/Node.js-green) ![](https://img.shields.io/badge/Express.js-green) ![](https://img.shields.io/badge/Java/Spring-Green) ![](https://img.shields.io/badge/eCommerce-blue) ![](https://img.shields.io/badge/CMS-blue) ![](https://img.shields.io/badge/Shopify-blue) ![](https://img.shields.io/badge/Firebase-blue) ![](https://img.shields.io/badge/AWS-green)
+![](https://img.shields.io/badge/Vanilla.js-Green)
+![](https://img.shields.io/badge/Typescript.js-Green) 
+![](https://img.shields.io/badge/React.js-Green) 
+![](https://img.shields.io/badge/Vue.js-green) 
+![](https://img.shields.io/badge/Next.js-blue) 
+![](https://img.shields.io/badge/Angular-green) 
+![](https://img.shields.io/badge/Svelte-blue) <br>
+
+![](https://img.shields.io/badge/Node.js-Green) 
+![](https://img.shields.io/badge/Express.js-Green) 
+![](https://img.shields.io/badge/Java/Spring-violet) 
+![](https://img.shields.io/badge/eCommerce-blue) 
+![](https://img.shields.io/badge/CMS-blue) 
+![](https://img.shields.io/badge/Shopify-blue) 
+![](https://img.shields.io/badge/Firebase-blue) 
+![](https://img.shields.io/badge/AWS-Green)
 <p>
 <!--   I am happy with what I’ve accomplished but I am really looking for a new challenge now.<br> -->
   Keep learning, Keep growing, Keep working. (<b>Hit me to chat --> </b>)<br>
