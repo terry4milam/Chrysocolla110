@@ -6,13 +6,12 @@
   <img align="right" src="https://lanyard-profile-readme.vercel.app/api/978829681333788682?bg=003399" />
 </a>
 
-Hi, I am a Senior JavaScript Engineer who has various skills such as HTML, CSS, JavaScript, Typescript, React JS, Vue.JS, Next.js, Svelte, etc.
+Hi, I am a Senior JavaScript Engineer who has various skills such as HTML, CSS, JavaScript, Typescript, React JS, Next.js, Angular, Svelte, etc.
 I've done multiple projects in a wide range of industries including eCommerce, LMS, fitness, etc.   
 ### Expertise     
 ![](https://img.shields.io/badge/Vanilla.js-Green)
 ![](https://img.shields.io/badge/Typescript.js-Green) 
 ![](https://img.shields.io/badge/React.js-Green) 
-![](https://img.shields.io/badge/Vue.js-green) 
 ![](https://img.shields.io/badge/Next.js-blue) 
 ![](https://img.shields.io/badge/Angular-green) 
 ![](https://img.shields.io/badge/Svelte-blue) <br>
@@ -21,7 +20,7 @@ I've done multiple projects in a wide range of industries including eCommerce, L
 ![](https://img.shields.io/badge/Express.js-Green) 
 ![](https://img.shields.io/badge/Java/Spring-violet) 
 ![](https://img.shields.io/badge/eCommerce-blue) 
-![](https://img.shields.io/badge/CMS-blue) 
+![](https://img.shields.io/badge/Healthcare-blue) 
 ![](https://img.shields.io/badge/Shopify-blue) 
 ![](https://img.shields.io/badge/Firebase-blue) 
 ![](https://img.shields.io/badge/AWS-Green)
@@ -53,7 +52,7 @@ I've done multiple projects in a wide range of industries including eCommerce, L
     <td><img src="https://cdn.iconscout.com/icon/free/png-64/webpack-3-1174982.png" width="50"></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-64/react-3-1175109.png" width="50"></td>
     <td><img src="https://seeklogo.com/images/N/next-js-logo-8FCFF51DD2-seeklogo.com.png" width="50"/></td>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-64/vuejs-3-1175070.png" width="50"></td>
+    <td><img src="https://cdn.iconscout.com/icon/free/png-64/vue-3-1175070.png" width="50"></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-64/angular-3-226070.png" width="50"></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-64/java-59-1174952.png" width="50"></td>
     <td><img src="https://bs-uploads.toptal.io/blackfish-uploads/components/skill_page/content/logo_file/logo/195523/d3js-7ccc10c45b36ba40d8fd3006561289df.png" width="50"></td>
