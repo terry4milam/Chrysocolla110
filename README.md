@@ -49,17 +49,16 @@ I've done multiple projects in a wide range of industries including eCommerce, L
     <td><img src="https://mui.com/static/logo.png" width="50"></td>
   </tr>
   <tr>    
-    <td><img src="https://cdn.iconscout.com/icon/free/png-64/webpack-3-1174982.png" width="50"></td>
+    <td><img src="https://cdn.iconscout.com/icon/free/png-64/node-js-1174925.png" width="50"></td>
+    <td><img src="https://d33wubrfki0l68.cloudfront.net/e937e774cbbe23635999615ad5d7732decad182a/26072/logo-small.ede75a6b.svg" width="50"></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-64/react-3-1175109.png" width="50"></td>
     <td><img src="https://seeklogo.com/images/N/next-js-logo-8FCFF51DD2-seeklogo.com.png" width="50"/></td>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-64/vue-3-1175070.png" width="50"></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-64/angular-3-226070.png" width="50"></td>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-64/java-59-1174952.png" width="50"></td>
+    <td><img src="https://cdn.iconscout.com/icon/free/png-64/webpack-3-1174982.png" width="50"></td>
     <td><img src="https://bs-uploads.toptal.io/blackfish-uploads/components/skill_page/content/logo_file/logo/195523/d3js-7ccc10c45b36ba40d8fd3006561289df.png" width="50"></td>
     <td><img src="https://www.chartjs.org/media/logo-title.svg" width="50"></td>
   </tr>
   <tr>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-64/node-js-1174925.png" width="50"></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-64/mysql-3521596-2945040.png"  width="50"/></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-64/mongodb-4-1175139.png" width="50"></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-64/postgresql-9-1175120.png"  width="50"/></td>
@@ -67,6 +66,7 @@ I've done multiple projects in a wide range of industries including eCommerce, L
     <td><img src="https://cdn.iconscout.com/icon/free/png-64/aws-1-282741.png" alt="mariadb" width="50"/></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-64/redis-6-1175105.png" width="50"></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-64/docker-4-532129.png" width="50"></td>
+    <td><img src="https://cdn.iconscout.com/icon/free/png-64/java-59-1174952.png" width="50"></td>
     
   </tr>
 </table>
